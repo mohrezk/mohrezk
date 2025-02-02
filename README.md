@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi there! 👋
 
-<!--
-**mohrezk/mohrezk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a backend developer passionate about building scalable and efficient web applications.
 
-Here are some ideas to get you started:
+🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programming Language: Python 🐍
+
+Frameworks: Django, Django Rest Framework
+
+Database: PostgreSQL
+
+🚀 What I Do
+
+Build and maintain backend services using Django and Django Rest Framework
+
+Design and optimize relational databases with PostgreSQL
+
+Develop RESTful APIs for web and mobile applications
+
+Ensure code quality, scalability, and security in backend systems
+
+📫 Get in Touch
+
+LinkedIn: Your Profile
+
+Email: Your Email
+
+Thanks for stopping by! Happy coding! 🚀
+
